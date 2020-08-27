@@ -18,3 +18,19 @@ Keywords:
 
 # DATA CENTER
 
+This part of the course focuses on understanding Data Centers, how they work and what protocols they use.
+
+## HW-1
+
+
+
+## HW-2
+
+How Load Balancer work? In this hw we are going to analyze some policie.
+
+Keywords:
+  * Simulation
+  * Pod
+  * JBT-d
+  * JSQ
+
