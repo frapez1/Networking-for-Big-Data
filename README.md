@@ -21,7 +21,12 @@ Keywords:
 This part of the course focuses on understanding Data Centers, how they work and what protocols they use.
 
 ## HW-1
-
+In this hw we are going to analyze some data center structure.
+Keywords:
+  * Simulation
+  * Fat-Tree 
+  * Jellyfish
+  * Erd˝os-R´enyi random graphs:
 
 
 ## HW-2
